@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="masukan_nama">Masukan nama</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="ulangi_password">Ulangi Password</string>
+    <string name="login" translatable="false">Login</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="signup" translatable="false">Signup</string>
+    <string name="login1" translatable="false">Login</string>
+    <string name="masukan_password1">Masukan Password</string>
+    <string name="username" translatable="false">Username</string>
+    <string name="selamat_datang">Halo, SELAMAT DATANG</string>
+</resources>

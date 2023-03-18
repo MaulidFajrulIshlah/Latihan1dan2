@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Exercise</string>
+    <string name="masukan_nama">Enter Name</string>
+    <string name="masukan_username">Enter Username</string>
+    <string name="masukan_password">Enter Password</string>
+    <string name="ulangi_password">Repeat Password</string>
+    <string name="masukan_password1">Enter Password</string>
+    <string name="selamat_datang">Hello, WELCOME</string>
+</resources>
